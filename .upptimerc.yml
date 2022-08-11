@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Galeno
     url: http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500
 
