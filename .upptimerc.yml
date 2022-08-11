@@ -9,8 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Galeno
     url: http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500
-#  - name: Test Broken Site
-#   url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
