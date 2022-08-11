@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Galeno
     url: http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500
 
