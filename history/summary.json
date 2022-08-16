@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://www.google.com/favicon.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 87,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Galeno",
     "url": "http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500",
     "icon": "https://favicons.githubusercontent.com/www.e-galenomovil.com.ar",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 762,
-    "timeWeek": 850,
-    "timeMonth": 850,
-    "timeYear": 850,
+    "time": 856,
+    "timeDay": 843,
+    "timeWeek": 856,
+    "timeMonth": 856,
+    "timeYear": 856,
     "dailyMinutesDown": {}
   }
 ]
