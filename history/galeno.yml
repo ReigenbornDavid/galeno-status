@@ -1,7 +1,7 @@
-url: http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500
+url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
 status: up
 code: 200
-responseTime: 478
-lastUpdated: 2022-08-24T23:09:18.206Z
+responseTime: 625
+lastUpdated: 2022-08-25T16:01:36.670Z
 startTime: Thu Aug 11 2022 19:09:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
