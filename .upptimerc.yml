@@ -3,8 +3,10 @@ owner: ReigenbornDavid # Your GitHub organization or username, where this reposi
 repo: galeno-status # The name of this repository
 
 sites:
+  - name: AKS
+    url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/aks
   - name: Galeno
-    url: http://www.e-galenomovil.com.ar/mobile-rest-services-test/asociadoLogin/valAsociado/0227572500
+    url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
