@@ -7,8 +7,6 @@ sites:
     url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/aks
   - name: Galeno
     url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
-  - name: Error
-    url: https://example.koj.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
