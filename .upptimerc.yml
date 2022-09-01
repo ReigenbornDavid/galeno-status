@@ -4,9 +4,9 @@ repo: galeno-status # The name of this repository
 
 sites:
   - name: AKS
-    url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/aks
+    url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/aks
   - name: Galeno
-    url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
+    url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/galeno
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
