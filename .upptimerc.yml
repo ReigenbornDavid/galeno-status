@@ -9,8 +9,12 @@ sites:
     url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
   - name: AKS
     url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/aks
+    expectedStatusCodes:
+      - 200    
   - name: Galeno
     url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/galeno
+    expectedStatusCodes:
+      - 200    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
