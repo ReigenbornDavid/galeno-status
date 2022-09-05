@@ -5,9 +5,7 @@ repo: galeno-status # The name of this repository
 sites:
   - name: AKS Test
     url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/aks
-  - name: Galeno Test
-    url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
-  - name: AKS
+  - name: AKS Prod
     url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/aks
     __dangerous__insecure: true   
   - name: Galeno
