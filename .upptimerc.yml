@@ -9,6 +9,7 @@ sites:
     url: http://apiTest.e-galeno.com.ar/api/monitorservicios/Monitor/galeno
   - name: AKS
     url: https://salud-api.galeno.com.ar/salud/api/monitorservicios/Monitor/aks
+    __dangerous__insecure: true
     expectedStatusCodes:
       - 200    
   - name: Galeno
